@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         title: 'makhaa live',
         home: Scaffold(
           appBar: AppBar(
-            title: Text('Welcome to Flutter'),
+            title: Text(''),
           ),
           
           body: const WebView(
